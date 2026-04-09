@@ -304,4 +304,4 @@ banana.previousElementSibling;  // <li>Apple</li>
 ```
 
 ------
-> ⏭️ **Next:** [Creating Content →](../creating-content/creating-content.md)
+> ⏭️ **Next:** [Creating Content →](../Creating_Content_with_JS/Creating_Content_with_JS.md)
